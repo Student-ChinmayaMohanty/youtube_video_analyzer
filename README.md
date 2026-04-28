@@ -117,15 +117,9 @@ Contributions are welcome!
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 💡 Author
 
-**Your Name**
+**Chinmaya Mohanty**
 Aspiring AI Engineer | Machine Learning Enthusiast
 
 ---
