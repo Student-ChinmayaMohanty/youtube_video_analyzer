@@ -64,13 +64,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Demo (Optional)
-
-https://github.com/Student-ChinmayaMohanty/youtube_video_analyzer/blob/main/Screenshot%202026-04-27%20225036.png?raw=true
-https://github.com/Student-ChinmayaMohanty/youtube_video_analyzer/blob/main/Screenshot%202026-04-27%20225122.png?raw=true
-
----
-
 ## 📌 Future Improvements
 
 * 🔍 Support for more content types
@@ -92,16 +85,10 @@ Contributions are welcome!
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 💡 Author
 
-**Your Name**
-Aspiring AI Engineer | Machine Learning Enthusiast
+**Chinmaya Mohanty**
+Aspiring AI Engineer |Genrative ai Enthusiast
 
 ---
 
