@@ -48,6 +48,29 @@ An intelligent **Agentic AI-powered web application** that analyzes content from
   * Content parsing utilities
   * API integrations
 
+---
+
+## ⚙️ Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/agentic-ai-analyzer.git
+
+# Navigate to project folder
+cd agentic-ai-analyzer
+
+# Create virtual environment
+python -m venv venv
+
+# Activate environment
+# Windows
+venv\Scripts\activate
+# Mac/Linux
+source venv/bin/activate
+
+# Install dependencies
+pip install -r requirements.txt
+```
 
 ---
 
@@ -61,6 +84,15 @@ streamlit run app.py
 2. Paste a content link
 3. Click analyze
 4. View AI-generated insights
+
+---
+
+## 📸 Demo (Optional)
+### 🔹 Screenshot 1
+![UI 1](https://raw.githubusercontent.com/Student-ChinmayaMohanty/youtube_video_analyzer/main/Screenshot%202026-04-27%20225036.png)
+
+### 🔹 Screenshot 2
+![UI 2](https://raw.githubusercontent.com/Student-ChinmayaMohanty/youtube_video_analyzer/main/Screenshot%202026-04-27%20225122.png)
 
 ---
 
@@ -85,10 +117,16 @@ Contributions are welcome!
 
 ---
 
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
 ## 💡 Author
 
-**Chinmaya Mohanty**
-Aspiring AI Engineer |Genrative ai Enthusiast
+**Your Name**
+Aspiring AI Engineer | Machine Learning Enthusiast
 
 ---
 
